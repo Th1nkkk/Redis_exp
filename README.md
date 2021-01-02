@@ -1,1 +1,2 @@
 # Redis_exp
+一个redis各种情况下的利用工具，包括内网ssrf的gopher协议，跟服务器可主动连接的rogue-server利用，算是对redis主题的一次小总结。
